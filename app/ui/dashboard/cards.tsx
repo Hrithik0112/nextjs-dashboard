@@ -7,6 +7,8 @@ import {
 import { lusitana } from '@/app/ui/fonts';
 import { fetchCardData } from '@/app/lib/data';
 
+//This Component is Dynamic
+
 const iconMap = {
   collected: BanknotesIcon,
   customers: UserGroupIcon,
